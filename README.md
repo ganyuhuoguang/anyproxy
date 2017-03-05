@@ -1,5 +1,6 @@
 AnyProxy
 ==========
+hg
 
 > AnyProxy 4.x正在Beta中，欢迎试用！文档：http://anyproxy.io/4.x/
 
